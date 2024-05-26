@@ -1,2 +1,2 @@
-# ejemplo-git-pull
+# practica-git-pull
 Ejemplo para ejecutar el comando pull desde Git
